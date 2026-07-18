@@ -1,0 +1,11 @@
+uid: SR-0007
+type: system_requirement
+status: approved
+title: "Attribute each non-obvious claim to its source"
+text: "Attribute each non-obvious claim to its source so the reader can check it."
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "TBS Purpose — Inform — Attribution and evidence"
+  principle: UR-0004

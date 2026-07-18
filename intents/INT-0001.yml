@@ -1,0 +1,8 @@
+uid: INT-0001
+type: intent
+status: approved
+title: "Text informs the reader accurately and completely"
+text: "Informing means conveying facts or state so the reader is accurately and fully in the picture, with no action demanded of them. It suits notices, explanations, status updates and reference material, where the reader needs to know rather than to do. This axis governs the communicative purpose — what to include and how to frame it — not readability, spelling, punctuation or register, each of which is a separate source. Purpose variants are mutually exclusive: a consumer composes exactly one of the inform, instruct or persuade sibling sources."
+normative: false
+attrs:
+  source_ref: "TBS Purpose — Inform"

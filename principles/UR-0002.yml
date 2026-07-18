@@ -1,0 +1,10 @@
+uid: UR-0002
+type: user_requirement
+status: approved
+title: "Give the whole picture the reader needs"
+text: "Cover the exceptions and limits, and mark the boundary of what is covered."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Purpose — Inform — Completeness"

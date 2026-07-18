@@ -1,0 +1,11 @@
+uid: SR-0006
+type: system_requirement
+status: approved
+title: "Give differing positions fairly"
+text: "Where informed views differ, give the material positions fairly rather than only the one you favour."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Purpose — Inform — Neutrality"
+  principle: UR-0003

@@ -1,0 +1,10 @@
+uid: UR-0004
+type: user_requirement
+status: approved
+title: "Show where the facts come from"
+text: "Attribute claims and separate fact from interpretation."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Purpose — Inform — Attribution and evidence"

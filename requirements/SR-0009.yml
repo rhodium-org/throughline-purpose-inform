@@ -1,0 +1,11 @@
+uid: SR-0009
+type: system_requirement
+status: approved
+title: "State the date the information applies to"
+text: "State the date the information applies to and when it was last checked or updated."
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "TBS Purpose — Inform — Currency"
+  principle: UR-0005

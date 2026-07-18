@@ -1,0 +1,10 @@
+uid: UR-0005
+type: user_requirement
+status: approved
+title: "Make the information's time-validity explicit"
+text: "Say what the information applies to and when it will change."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Purpose — Inform — Currency"

@@ -1,0 +1,11 @@
+uid: SR-0010
+type: system_requirement
+status: approved
+title: "Flag facts that will change and when they are next reviewed"
+text: "Flag facts that are expected to change and say when they will next be reviewed."
+links:
+- target: UR-0005
+  type: implements
+attrs:
+  source_ref: "TBS Purpose — Inform — Currency"
+  principle: UR-0005

@@ -1,0 +1,11 @@
+uid: SR-0001
+type: system_requirement
+status: approved
+title: "State only facts you can substantiate"
+text: "State only facts you can substantiate; do not present speculation or rumour as established fact."
+links:
+- target: UR-0001
+  type: implements
+attrs:
+  source_ref: "TBS Purpose — Inform — Accuracy"
+  principle: UR-0001

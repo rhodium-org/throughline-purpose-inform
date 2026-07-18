@@ -1,0 +1,11 @@
+uid: SR-0004
+type: system_requirement
+status: approved
+title: "State what the content does not cover"
+text: "State explicitly what the content does not cover, so the reader knows the boundary of the information."
+links:
+- target: UR-0002
+  type: implements
+attrs:
+  source_ref: "TBS Purpose — Inform — Completeness"
+  principle: UR-0002

@@ -1,0 +1,10 @@
+uid: UR-0003
+type: user_requirement
+status: approved
+title: "Inform without persuading"
+text: "Present the facts and leave the reader free to draw their own conclusion."
+links:
+- target: INT-0001
+  type: derives_from
+attrs:
+  source_ref: "TBS Purpose — Inform — Neutrality"

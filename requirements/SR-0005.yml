@@ -1,0 +1,11 @@
+uid: SR-0005
+type: system_requirement
+status: approved
+title: "Present facts without steering the reader"
+text: "Present the facts without steering the reader toward a particular decision or opinion."
+links:
+- target: UR-0003
+  type: implements
+attrs:
+  source_ref: "TBS Purpose — Inform — Neutrality"
+  principle: UR-0003

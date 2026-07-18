@@ -1,0 +1,11 @@
+uid: SR-0008
+type: system_requirement
+status: approved
+title: "Distinguish established fact from interpretation"
+text: "Distinguish established fact from interpretation, estimate or forecast."
+links:
+- target: UR-0004
+  type: implements
+attrs:
+  source_ref: "TBS Purpose — Inform — Attribution and evidence"
+  principle: UR-0004
