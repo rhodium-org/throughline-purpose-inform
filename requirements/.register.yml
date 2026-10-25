@@ -1,3 +1,4 @@
 prefix: SR
 digits: 4
 title: Inform-purpose rules
+type: system_requirement
