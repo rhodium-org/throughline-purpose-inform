@@ -1,10 +1,11 @@
 uid: UR-0001
 type: user_requirement
-status: approved
-title: "State only what can be substantiated"
-text: "Present verified facts and match certainty to the evidence."
+status: proposed
+title: State only what can be substantiated
+text: Present verified facts and match certainty to the evidence.
+normative: true
 links:
 - target: INT-0001
   type: derives_from
 attrs:
-  source_ref: "TBS Purpose — Inform — Accuracy"
+  source_ref: TBS Purpose — Inform — Accuracy
